@@ -1,1 +1,0 @@
-# kawalcovid19
