@@ -1,7 +1,7 @@
-#Wed Jul 08 17:03:56 ICT 2020
-base.0=C\:\\Users\\Muhamad Ilham\\AndroidStudioProjects\\Info-COVID-19-master\\CoronaInfo\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+#Sun Jul 12 07:05:45 ICT 2020
+base.0=C\:\\Users\\Muhamad Ilham\\AndroidStudioProjects\\covid19\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\Muhamad Ilham\\AndroidStudioProjects\\Info-COVID-19-master\\CoronaInfo\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+base.1=C\:\\Users\\Muhamad Ilham\\AndroidStudioProjects\\covid19\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

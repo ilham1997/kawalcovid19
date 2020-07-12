@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ilham.covid.test" >
+    package="com.ilham.covid19.test" >
 
     <uses-sdk
         android:minSdkVersion="21"
@@ -10,8 +10,8 @@
         android:name="androidx.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.ilham.covid"
-        android:targetPackage="com.ilham.covid" />
+        android:label="Tests for com.ilham.covid19"
+        android:targetPackage="com.ilham.covid19" />
 
     <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
