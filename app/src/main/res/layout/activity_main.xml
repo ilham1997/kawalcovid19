@@ -76,10 +76,14 @@
             android:gravity="center"
             android:orientation="vertical">
             <ImageView
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:src="@drawable/ic_date"
-                android:tint="#FCBD00"/>
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/cough"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="POSITIF"/>
             <TextView
                 android:id="@+id/positif"
                 android:layout_width="wrap_content"
@@ -97,10 +101,14 @@
             android:gravity="center"
             android:orientation="vertical">
             <ImageView
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:src="@drawable/ic_date"
-                android:tint="#0CEBA3"/>
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/patient"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SEMBUH"/>
             <TextView
                 android:id="@+id/sembuh"
                 android:layout_width="wrap_content"
@@ -118,10 +126,14 @@
             android:gravity="center"
             android:orientation="vertical">
             <ImageView
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:src="@drawable/ic_date"
-                android:tint="#FA0505"/>
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/dead"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MENINGGAL"/>
             <TextView
                 android:id="@+id/meninggal"
                 android:layout_width="wrap_content"
